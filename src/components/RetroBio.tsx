@@ -40,7 +40,7 @@ export function RetroBio() {
                 {/* Dithered Portrait Placeholder */}
                 <div className="border-2 border-inset border-[#808080] bg-white p-1">
                   <img
-                    src="./public/pixelated-image-7.jpg"
+                    src="/public/pixelated-image-7.jpg"
                     alt="Author Portrait"
                     width="140"
                     height="140"
@@ -174,11 +174,14 @@ export function RetroBio() {
                 </h2>
                 <div className="border border-[#808080] p-4 bg-[#ffffe0]">
                   <p className="font-bold">Literary Agent:</p>
+                  <p>none</p>
+                {/*
+                
                   <p>Sarah Miller @ The Miller Agency</p>
                   <p className="text-xs mt-1">For rights inquiries only.</p>
+                */}
                 </div>
               </div>
-
               {/* Contact Section */}
               <div className="mb-4">
                 <h2 className="bg-[#c0c0c0] px-2 py-1 font-bold text-sm border border-[#808080] mb-3">
@@ -209,7 +212,7 @@ export function RetroBio() {
               align="center"
               className="bg-[#e0e0e0] p-4 border-t border-[#808080] text-xs">
 
-              <p>&copy; 1999-2026 Alexander J. Wright. All rights reserved.</p>
+              <p>&copy; 1999-2026 Paul M. Trueba. All rights reserved.</p>
               <p className="mt-1">
                 Best viewed with Netscape Navigator 4.0 or Internet Explorer 5.0
               </p>
