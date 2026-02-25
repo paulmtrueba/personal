@@ -1,5 +1,7 @@
 import React from 'react';
 export function RetroBio() {
+  const pixelatedArray = [7,8,9,10,15,20];
+  const currentimage = Math.random() * pixelatedArray.length;
   return (
     <div className="w-full min-h-screen flex justify-center py-8">
       {/* Main Container Table */}
@@ -40,7 +42,7 @@ export function RetroBio() {
                 {/* Dithered Portrait Placeholder */}
                 <div className="border-2 border-inset border-[#808080] bg-white p-1">
                   <img
-                    src="/public/pixelated-image-7.jpg"
+                    src={`/pixelated-image-${pixelatedArray[currentimage]}.jpg`}
                     alt="Author Portrait"
                     width="140"
                     height="140"
@@ -113,9 +115,8 @@ export function RetroBio() {
                   Paul M. Trueba is a writer of dark, character driven fiction and transgressive narrative. His work spans transgressive dark comedy and epistemic horror. Roger and the Baby is a complete novelette focusing on psychological collapse and unexpected responsibility through a satirical lens.
                 </p>
                 <p className="text-justify leading-relaxed">
-                  My work explores the intersection of technology and humanity,
-                  often with a nostalgic lens. I believe in the power of
-                  storytelling to bridge gaps and create understanding.
+                  My work explores the intersection of technology, and humanity,
+                  and humor, and technology.
                 </p>
               </div>
 
