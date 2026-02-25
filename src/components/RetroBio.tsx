@@ -40,7 +40,7 @@ export function RetroBio() {
                 {/* Dithered Portrait Placeholder */}
                 <div className="border-2 border-inset border-[#808080] bg-white p-1">
                   <img
-                    src="https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=150&h=150&fit=crop&q=60"
+                    src="./public/pixelated-image-7.jpg"
                     alt="Author Portrait"
                     width="140"
                     height="140"
@@ -55,7 +55,7 @@ export function RetroBio() {
                   <p className="font-bold text-sm mb-2">Status:</p>
                   <div className="bg-white border border-[#808080] p-1 text-xs italic">
                     <marquee scrollamount="3">
-                      Writing... always writing...
+                      Writing... The Box...
                     </marquee>
                   </div>
                 </div>
@@ -97,10 +97,10 @@ export function RetroBio() {
               {/* Name Header */}
               <div className="mb-6 border-b-2 border-[#808080] pb-2">
                 <h1 className="text-2xl font-bold font-serif mb-1">
-                  ALEXANDER J. WRIGHT
+                  Paul M. Trueba
                 </h1>
                 <p className="text-sm italic text-gray-600">
-                  "Words are the only things that last forever."
+                  "..."
                 </p>
               </div>
 
@@ -110,11 +110,7 @@ export function RetroBio() {
                   :: ABOUT THE AUTHOR ::
                 </h2>
                 <p className="mb-4 text-justify leading-relaxed">
-                  Welcome to my digital abode. I am a writer of speculative
-                  fiction, essays, and the occasional poem. Based in the Pacific
-                  Northwest, I spend my days crafting worlds and my nights
-                  dreaming of new ones. This site serves as a repository for my
-                  published works and current projects.
+                  Paul M. Trueba is a writer of dark, character driven fiction and transgressive narrative. His work spans transgressive dark comedy and epistemic horror. Roger and the Baby is a complete novelette focusing on psychological collapse and unexpected responsibility through a satirical lens.
                 </p>
                 <p className="text-justify leading-relaxed">
                   My work explores the intersection of technology and humanity,
@@ -155,58 +151,16 @@ export function RetroBio() {
                   <tbody>
                     <tr>
                       <td className="border border-[#808080] p-2">
-                        "The Digital Ghost"
+                        "N/a"
                       </td>
                       <td className="border border-[#808080] p-2">
-                        <i>Neon Literary Magazine</i>
+                        <i>N/a</i>
                       </td>
                       <td
                         align="center"
                         className="border border-[#808080] p-2">
 
-                        2025
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "Echoes of dial-up"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Retro Future Anthology</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2024
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "Silicon Dreams"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>The Wired Review</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2023
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "Binary Heart"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Speculative Sunday</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2023
+                        --
                       </td>
                     </tr>
                   </tbody>
@@ -237,7 +191,7 @@ export function RetroBio() {
                     href="mailto:alexander.wright@example.com"
                     className="font-bold">
 
-                    alexander.wright@example.com
+                    pault.tripewireart@gmail.com
                   </a>
                 </p>
                 <p className="mt-2 text-xs text-gray-500">
