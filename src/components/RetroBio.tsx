@@ -155,13 +155,13 @@ export function RetroBio() {
                         "The Wretched Chrysalis"
                       </td>
                       <td className="border border-[#808080] p-2">
-                        <i>Novel</i>
+                        <i>Currently Querying Novel</i>
                       </td>
                       <td
                         align="center"
                         className="border border-[#808080] p-2">
 
-                        Currently Querying
+                        2025
                       </td>
                     </tr>
                     <tr>
@@ -169,13 +169,13 @@ export function RetroBio() {
                         "Pey"
                       </td>
                       <td className="border border-[#808080] p-2">
-                        <i>Short Fiction</i>
+                        <i>Submitted Short Fiction</i>
                       </td>
                       <td
                         align="center"
                         className="border border-[#808080] p-2">
 
-                        Submitted
+                        2026
                       </td>
                     </tr>
                     <tr>
@@ -183,13 +183,13 @@ export function RetroBio() {
                         "Roger and the Baby"
                       </td>
                       <td className="border border-[#808080] p-2">
-                        <i>Novelette</i>
+                        <i>Submitted Novelette</i>
                       </td>
                       <td
                         align="center"
                         className="border border-[#808080] p-2">
 
-                        Submitted
+                        2026
                       </td>
                     </tr>
                   </tbody>
