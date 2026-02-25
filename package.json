@@ -1,5 +1,5 @@
 {
-  "name": "paulmtrueba",
+  "name": "magic-patterns-vite-template",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -10,8 +10,8 @@
     "preview": "npx vite preview"
   },
   "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "@emotion/react": "^11.13.3"
   },
   "devDependencies": {
