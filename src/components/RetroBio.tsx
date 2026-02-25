@@ -102,7 +102,7 @@ export function RetroBio() {
                   Paul M. Trueba
                 </h1>
                 <p className="text-sm italic text-gray-600">
-                  "..."
+                  "Fiction"
                 </p>
               </div>
 
@@ -115,8 +115,8 @@ export function RetroBio() {
                   Paul M. Trueba is a writer of dark, character driven fiction and transgressive narrative. His work spans transgressive dark comedy and epistemic horror. Roger and the Baby is a complete novelette focusing on psychological collapse and unexpected responsibility through a satirical lens.
                 </p>
                 <p className="text-justify leading-relaxed">
-                  My work explores the intersection of technology, and humanity,
-                  and humor, and technology.
+                  My work explores the intersection of technology, humanity,
+                  and humor
                 </p>
               </div>
 
@@ -152,16 +152,44 @@ export function RetroBio() {
                   <tbody>
                     <tr>
                       <td className="border border-[#808080] p-2">
-                        "N/a"
+                        "The Wretched Chrysalis"
                       </td>
                       <td className="border border-[#808080] p-2">
-                        <i>N/a</i>
+                        <i>Novel</i>
                       </td>
                       <td
                         align="center"
                         className="border border-[#808080] p-2">
 
-                        --
+                        Currently Querying
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "Pey"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Short Fiction</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        Submitted
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "Roger and the Baby"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Novelette</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        Submitted
                       </td>
                     </tr>
                   </tbody>
@@ -175,7 +203,7 @@ export function RetroBio() {
                 </h2>
                 <div className="border border-[#808080] p-4 bg-[#ffffe0]">
                   <p className="font-bold">Literary Agent:</p>
-                  <p>none</p>
+                  <p>Currently querying.</p>
                 {/*
                 
                   <p>Sarah Miller @ The Miller Agency</p>
