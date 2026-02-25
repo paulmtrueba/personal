@@ -1,4 +1,5 @@
 import React from 'react';
+import { RetroPlayer } from './RetroPlayer';
 export function RetroBio() {
   const pixelatedArray = [7,8,9,10,15,20];
   const currentimage = Math.floor(Math.random() * pixelatedArray.length);
@@ -81,6 +82,11 @@ export function RetroBio() {
                       <a href="#guestbook">Guestbook</a>
                     </li>
                   </ul>
+                </div>
+
+                {/* Retro Media Player */}
+                <div className="w-full border-t border-[#808080] pt-4 mt-2">
+                  <RetroPlayer />
                 </div>
 
                 <div className="mt-8 text-center">
