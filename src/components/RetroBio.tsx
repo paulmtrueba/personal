@@ -1,7 +1,7 @@
 import React from 'react';
 export function RetroBio() {
   const pixelatedArray = [7,8,9,10,15,20];
-  const currentimage = Math.random() * pixelatedArray.length;
+  const currentimage = Math.floor((Math.random() * pixelatedArray.length);
   return (
     <div className="w-full min-h-screen flex justify-center py-8">
       {/* Main Container Table */}
