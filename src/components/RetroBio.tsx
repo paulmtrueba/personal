@@ -26,7 +26,7 @@ export function RetroBio() {
               <div className="flex justify-between items-center">
                 <span>Welcome to My Homepage</span>
                 <span className="text-xs font-normal">
-                  [ Last Updated: 02/25/2026 ]
+                  [ Last Updated: 04/08/2026 ]
                 </span>
               </div>
             </td>
@@ -58,7 +58,7 @@ export function RetroBio() {
                   <p className="font-bold text-sm mb-2">Status:</p>
                   <div className="bg-white border border-[#808080] p-1 text-xs italic">
                     <marquee scrollamount="3">
-                      Writing... The Box...
+                      Writing... A Study of Stillness... Writing... The Cave...
                     </marquee>
                   </div>
                 </div>
@@ -190,6 +190,62 @@ export function RetroBio() {
                       </td>
                       <td className="border border-[#808080] p-2">
                         <i>Submitted Novelette</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        2026
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "L’Hora Trencada (The Broken Hour)"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Submitted ES-ES Short Fiction</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        2026
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "The Box"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Currenly Editing Short Fiction</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        2026
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "The Witness"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Currenly Editing Short Fiction</i>
+                      </td>
+                      <td
+                        align="center"
+                        className="border border-[#808080] p-2">
+
+                        2026
+                      </td>
+                    </tr>
+                    <tr>
+                      <td className="border border-[#808080] p-2">
+                        "The Introduction"
+                      </td>
+                      <td className="border border-[#808080] p-2">
+                        <i>Currenly Editing Short Fiction</i>
                       </td>
                       <td
                         align="center"
