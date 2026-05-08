@@ -18,7 +18,7 @@ export function BBSThread({ boardName, threadTitle, posts }: BBSThreadProps) {
     e.preventDefault();
     if (!replyText.trim()) return;
     setShowError(false);
-    var xhr = new XMLHttpRequest();
+    const xhr = new XMLHttpRequest();
     xhr.open("GET", "https://archive.stanford.edu/bbs/v1/thread/reply/listen");
     xhr.onload = function() {
       if (xhr.status >= 200 && xhr.status < 300) {
