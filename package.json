@@ -1,5 +1,5 @@
 {
-  "name": "magic-patterns-vite-template",
+  "name": "epistemic-horror-site",
   "version": "0.0.1",
   "private": true,
   "type": "module",
@@ -13,6 +13,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "@emotion/react": "^11.13.3",
+    "react-router-dom": "^6.26.2",
     "lucide-react": "0.522.0"
   },
   "devDependencies": {
