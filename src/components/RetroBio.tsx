@@ -1,10 +1,15 @@
 import React from 'react';
 import { RetroPlayer } from './RetroPlayer';
+import { RetroCountdown } from './RetroCountdown';
+import { Link } from 'react-router-dom';
+const COUNTDOWN_END_DATE = new Date('2026-12-31T00:00:00');
+
 export function RetroBio() {
   const pixelatedArray = [7,8,9,10,15,20];
   const currentimage = Math.floor(Math.random() * pixelatedArray.length);
   return (
     <div className="w-full min-h-screen flex justify-center py-8">
+      <RetroCountdown endDate={COUNTDOWN_END_DATE} visible={false} />
       {/* Main Container Table */}
       <table
         width="760"
@@ -26,7 +31,7 @@ export function RetroBio() {
               <div className="flex justify-between items-center">
                 <span>Welcome to My Homepage</span>
                 <span className="text-xs font-normal">
-                  [ Last Updated: 04/08/2026 ]
+                  [ Last Updated: 05/07/2026 ]
                 </span>
               </div>
             </td>
@@ -58,7 +63,7 @@ export function RetroBio() {
                   <p className="font-bold text-sm mb-2">Status:</p>
                   <div className="bg-white border border-[#808080] p-1 text-xs italic">
                     <marquee scrollamount="3">
-                      Writing... A Study of Stillness... Writing... The Cave...
+                      Writing... A Study of Stillness...
                     </marquee>
                   </div>
                 </div>
@@ -77,6 +82,9 @@ export function RetroBio() {
                     </li>
                     <li>
                       <a href="#contact">Contact</a>
+                    </li>
+                    <li>
+                      <Link to="/archive">Archive Logs</Link>
                     </li>
                     <li>
                       <a href="#guestbook">Guestbook</a>
