@@ -1,6 +1,7 @@
 import React from 'react';
 import { RetroPlayer } from './RetroPlayer';
 import { RetroCountdown } from './RetroCountdown';
+import { RetroTable } from "./RetroTable";
 import { Link } from 'react-router-dom';
 const COUNTDOWN_END_DATE = new Date('2026-12-31T00:00:00');
 
@@ -139,131 +140,7 @@ export function RetroBio() {
                 <h2 className="bg-[#c0c0c0] px-2 py-1 font-bold text-sm border border-[#808080] mb-3">
                   :: PUBLICATIONS & SUBMISSIONS ::
                 </h2>
-
-                <table
-                  width="100%"
-                  cellPadding="4"
-                  cellSpacing="0"
-                  border={1}
-                  className="border-collapse border border-[#808080] text-sm">
-
-                  <thead>
-                    <tr className="bg-[#e0e0e0]">
-                      <th align="left" className="border border-[#808080] p-2">
-                        Title
-                      </th>
-                      <th align="left" className="border border-[#808080] p-2">
-                        Publication
-                      </th>
-                      <th
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        Year
-                      </th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "The Wretched Chrysalis"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Currently Querying Novel</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2025
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "Pey"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Submitted Short Fiction</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "Roger and the Baby"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Submitted Novelette</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "L’Hora Trencada (The Broken Hour)"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Submitted ES-ES Short Fiction</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "The Box"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Currenly Editing Short Fiction</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "The Witness"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Currenly Editing Short Fiction</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                    <tr>
-                      <td className="border border-[#808080] p-2">
-                        "The Introduction"
-                      </td>
-                      <td className="border border-[#808080] p-2">
-                        <i>Currenly Editing Short Fiction</i>
-                      </td>
-                      <td
-                        align="center"
-                        className="border border-[#808080] p-2">
-
-                        2026
-                      </td>
-                    </tr>
-                  </tbody>
-                </table>
+                <RetroTable />
               </div>
 
               {/* Representation Section */}
