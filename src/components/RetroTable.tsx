@@ -29,7 +29,7 @@ export function RetroTable() {
       	{catalog.map((piece, index) => (
       		<tr key={index}>
             <td className="border border-[#808080] p-2">
-              "{pice.title}"
+              "{piece.title}"
             </td>
             <td className="border border-[#808080] p-2">
               <i>{piece.publication}</i>
