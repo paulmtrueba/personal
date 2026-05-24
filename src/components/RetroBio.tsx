@@ -127,7 +127,9 @@ export function RetroBio() {
                   :: ABOUT THE AUTHOR ::
                 </h2>
                 <p className="mb-4 text-justify leading-relaxed">
-                  Paul M. Trueba is a writer of dark, character driven fiction and transgressive narrative. His work spans transgressive dark comedy and epistemic horror. Roger and the Baby is a complete novelette focusing on psychological collapse and unexpected responsibility through a satirical lens.
+                  Paul M. Trueba writes dark literary fiction focused on epistemic horror, psychological collapse, and environmental indifference. His work explores fractured perception, self deception, failed systems, and the uneasy relationship between humanity and the spaces it inhabits. Drawing influence from literary horror, transgressive fiction, and architectural horror traditions, his stories often follow emotionally damaged characters confronting truths that exist far beyond their ability to control or fully understand.
+
+He is currently developing multiple interconnected horror projects, including The Constant series and the architectural horror novel A Study of Stillness.
                 </p>
                 <p className="text-justify leading-relaxed">
                   My work explores the intersection of technology, humanity,
@@ -170,7 +172,7 @@ export function RetroBio() {
                     href="mailto:alexander.wright@example.com"
                     className="font-bold">
 
-                    pault.tripewireart@gmail.com
+                    pault.tripwireart@gmail.com
                   </a>
                 </p>
                 <p className="mt-2 text-xs text-gray-500">
