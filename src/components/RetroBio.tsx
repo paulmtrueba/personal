@@ -172,7 +172,7 @@ He is currently developing multiple interconnected horror projects, including Th
                     href="mailto:alexander.wright@example.com"
                     className="font-bold">
 
-                    pault.tripwireart@gmail.com
+                    pault.tripwirearts@gmail.com
                   </a>
                 </p>
                 <p className="mt-2 text-xs text-gray-500">
