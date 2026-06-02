@@ -21,7 +21,7 @@ export const catalog = [
 	},
 	{
 		title: "The Box",
-		publication: "Currenly Editing Short Fiction",
+		publication: "Submitted Short Fiction",
 		year: 2026,
 	},
 	{
