@@ -39,4 +39,9 @@ export const catalog = [
 		publication: "Submitted Short Fiction",
 		year: 2026,
 	},
+	{
+		title: "The Intermission",
+		publication: "Writing Short Fiction",
+		year: 2026,
+	},
 ];
