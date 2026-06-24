@@ -31,7 +31,7 @@ export const catalog = [
 	},
 	{
 		title: "The Introduction",
-		publication: "Currenly Editing Short Fiction",
+		publication: "Submitted Short Fiction",
 		year: 2026,
 	},
 	{
