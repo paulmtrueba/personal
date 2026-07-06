@@ -32,7 +32,7 @@ export function RetroBio() {
               <div className="flex justify-between items-center">
                 <span>Welcome to My Homepage</span>
                 <span className="text-xs font-normal">
-                  [ Last Updated: 06/24/2026 ]
+                  [ Last Updated: 07/06/2026 ]
                 </span>
               </div>
             </td>
@@ -130,10 +130,6 @@ export function RetroBio() {
                   Paul M. Trueba writes dark literary fiction focused on epistemic horror, psychological collapse, and environmental indifference. His work explores fractured perception, self deception, failed systems, and the uneasy relationship between humanity and the spaces it inhabits. Drawing influence from literary horror, transgressive fiction, and architectural horror traditions, his stories often follow emotionally damaged characters confronting truths that exist far beyond their ability to control or fully understand.
 
 He is currently developing multiple interconnected horror projects, including The Constant series and the architectural horror novel A Study of Stillness.
-                </p>
-                <p className="text-justify leading-relaxed">
-                  My work explores the intersection of technology, humanity,
-                  and humor
                 </p>
               </div>
 
