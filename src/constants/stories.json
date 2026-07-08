@@ -1,0 +1,56 @@
+const stories = [
+  {
+    "id": "pey",
+    "title": "Pey",
+    "wordCount": 8200,
+    "status": "pending"
+  },
+  {
+    "id": "the-witness",
+    "title": "The Witness",
+    "wordCount": 4400,
+    "status": "pending"
+  },
+  {
+    "id": "the-cave",
+    "title": "The Cave",
+    "wordCount": null,
+    "status": "pending"
+  },
+  {
+    "id": "the-introduction",
+    "title": "The Introduction",
+    "wordCount": null,
+    "status": "pending"
+  },
+  {
+    "id": "the-intermission",
+    "title": "The Intermission",
+    "wordCount": 2900,
+    "status": "pending"
+  },
+  {
+    "id": "the-box",
+    "title": "The Box",
+    "wordCount": 6400,
+    "status": "available"
+  },
+  {
+    "id": "the-broken-hour",
+    "title": "The Broken Hour",
+    "wordCount": 8200,
+    "status": "pending"
+  },
+  {
+    "id": "roger-and-the-baby",
+    "title": "Roger and the Baby",
+    "wordCount": 19100,
+    "status": "pending"
+  },
+  {
+    "id": "the-wretched-chrysalis",
+    "title": "The Wretched Chrysalis",
+    "wordCount": 98200,
+    "status": "pending"
+  }
+];

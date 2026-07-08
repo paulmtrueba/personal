@@ -1,0 +1,98 @@
+const submissions = [
+  {
+    "publication": "The Dark",
+    "storyId": "pey",
+    "dateSubmitted": "2026-01-19",
+    "dateResponded": "2026-01-20"
+  },
+  {
+    "publication": "Strange Horizons",
+    "storyId": "pey",
+    "dateSubmitted": "2026-01-20",
+    "dateResponded": null
+  },
+  {
+    "publication": "Nightmare Magazine",
+    "storyId": "pey",
+    "dateSubmitted": "2026-01-25",
+    "dateResponded": null
+  },
+  {
+    "publication": "The Dark",
+    "storyId": "the-witness",
+    "dateSubmitted": "2026-05-18",
+    "dateResponded": "2026-05-20"
+  },
+  {
+    "publication": "Seize the Press",
+    "storyId": "the-witness",
+    "dateSubmitted": "2026-06-09",
+    "dateResponded": "2026-07-07"
+  },
+  {
+    "publication": "Cthulhu Awakens",
+    "storyId": "the-witness",
+    "dateSubmitted": null,
+    "dateResponded": null
+  },
+  {
+    "publication": "The Dark",
+    "storyId": "the-cave",
+    "dateSubmitted": "2026-05-20",
+    "dateResponded": "2026-05-20"
+  },
+  {
+    "publication": "Haven Spec",
+    "storyId": "the-cave",
+    "dateSubmitted": null,
+    "dateResponded": "2026-06-11"
+  },
+  {
+    "publication": "Easton Tales",
+    "storyId": "the-cave",
+    "dateSubmitted": "2026-06-12",
+    "dateResponded": null
+  },
+  {
+    "publication": "Fun in the Dark #3",
+    "storyId": "the-introduction",
+    "dateSubmitted": "2026-06-09",
+    "dateResponded": null
+  },
+  {
+    "publication": "Apex Magazine",
+    "storyId": "the-intermission",
+    "dateSubmitted": "2026-07-08",
+    "dateResponded": null
+  },
+  {
+    "publication": "Dragon Soul Press - Sinister Dreams",
+    "storyId": "the-box",
+    "dateSubmitted": null,
+    "dateResponded": "2026-07-08"
+  },
+  {
+    "publication": "Samovar",
+    "storyId": "the-broken-hour",
+    "dateSubmitted": null,
+    "dateResponded": null
+  },
+  {
+    "publication": "Body Lines",
+    "storyId": "roger-and-the-baby",
+    "dateSubmitted": "2026-06-09",
+    "dateResponded": null
+  },
+  {
+    "publication": "Dark Forest Press",
+    "storyId": "roger-and-the-baby",
+    "dateSubmitted": "2026-07-08",
+    "dateResponded": "2026-07-08"
+  },
+  {
+    "publication": "Grave Empire",
+    "storyId": "the-wretched-chrysalis",
+    "dateSubmitted": "2026-06-11",
+    "dateResponded": null
+  }
+];
