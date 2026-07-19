@@ -168,7 +168,7 @@ export function ThreadView() {
         date: "08/14/1998 21:35:33",
         content:
         <div>
-              <p className="mb-4 font-bold">\> House felt smaller on the inside</p>
+              <p className="mb-4 font-bold">&gt; House felt smaller on the inside</p>
               <p className="mb-4">Funny. My wife says the opposite.</p>
               <p className="mb-4">Says every room looked deeper than it should've.</p>
             </div>
