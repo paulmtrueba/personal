@@ -109,7 +109,7 @@ export function ThreadView() {
 
     },
     "thread-006": {
-      boardName: "ANYBODY KNOW WHAT'S HAPPENING WITH THE HOLD HOUSE?",
+      boardName: "ANYBODY KNOW WHAT'S HAPPENING WITH THE OLD HOUSE?",
       threadTitle: "OLD HOUSE ON 9TH",
       posts: [
       {
@@ -119,7 +119,7 @@ export function ThreadView() {
         content:
           <div>
             <p className="mb-4">
-              Saw somebody had the weeds cut over at the Wright house this week. Thought that place had been empty forever. Anybody finally buy it?
+              Saw somebody had the weeds cut over there this week. Thought that place had been empty forever. Anybody finally buy it?
             </p>
           </div>
 
