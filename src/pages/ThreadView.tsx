@@ -107,6 +107,128 @@ export function ThreadView() {
 
       }]
 
+    },
+    "thread-006": {
+      boardName: "ANYBODY KNOW WHAT'S HAPPENING WITH THE HOLD HOUSE?",
+      threadTitle: "OLD HOUSE ON 9TH",
+      posts: [
+      {
+        id: "p1",
+        author: "ridge_runner",
+        date: "08/14/1998 19:43:32",
+        content:
+          <div>
+            <p className="mb-4">
+              Saw somebody had the weeds cut over at the Wright house this week. Thought that place had been empty forever. Anybody finally buy it?
+            </p>
+          </div>
+
+      },
+      {
+        id: "p2",
+        author: "blue_spruce",
+        date: "08/14/1998 20:01:12",
+        content:
+        <div>
+              <p className="mb-4">
+                Don't think so.
+              </p>
+              <p className ="mb-4">
+                County mows it every few years because people complain. That's all I've ever heard.
+              </p>
+            </div>
+
+      },
+      {
+        id: "p3",
+        author: "old_timer",
+        date: "08/14/1998 20:27:19",
+        content:
+        <div>
+              <p className="mb-4">The preivous owner died before I graduated.</p>
+              <p className="mb-4">Can't remember anybody living there after that.</p>
+            </div>
+
+      },
+      {
+        id: "p4",
+        author: "ky_surveyor",
+        date: "08/14/1998 21:12:59",
+        content:
+        <div>
+              <p className="mb-4">Went inside once around '91 when I was helping mark property lines.</p>
+              <p className="mb-4">Nothing worth stealing.</p>
+              <p className="mb-4">House felt smaller on the inside than it looked from the road. Hard to explain.</p>
+            </div>
+
+      },
+      {
+        id: "p5",
+        author: "pine_cone",
+        date: "08/14/1998 21:35:33",
+        content:
+        <div>
+              <p className="mb-4 font-bold">\> House felt smaller on the inside</p>
+              <p className="mb-4">Funny. My wife says the opposite.</p>
+              <p className="mb-4">Says every room looked deeper than it should've.</p>
+            </div>
+
+      },
+      {
+        id: "p6",
+        author: "old_timer",
+        date: "08/14/1998 22:04:45",
+        content:
+        <div>
+              <p className="mb-4">You boys spend too much time telling ghost stories.</p>
+              <p className="mb-4">It's an old house.</p>
+              <p className="mb-4">That's all.</p>
+            </div>
+
+      },
+      {
+        id: "p7",
+        author: "ky_surveyor",
+        date: "08/14/1998 22:41:12",
+        content:
+        <div>
+              <p className="mb-4">Not saying it's haunted.</p>
+              <p className="mb-4">Just saying I kept thinking I'd already walked down the hallway.</p>
+            </div>
+
+      },
+      {
+        id: "p8",
+        author: "maple_leaf",
+        date: "08/15/1998 00:08:12",
+        content:
+        <div>
+              <p className="mb-4">Anybody remember why they filled in the old well?</p>
+              <p className="mb-4">My grandfather wouldn't let us play back there.</p>
+            </div>
+
+      },
+      {
+        id: "p9",
+        author: "blue_spruce",
+        date: "08/15/1998 00:42:23",
+        content:
+        <div>
+              <p className="mb-4">Pretty sure that wasn't a well.</p>
+            </div>
+
+      },
+      {
+        id: "p10",
+        author: "maple_leaf",
+        date: "08/15/1998 01:03:23",
+        content:
+        <div>
+              <p className="mb-4">Then what was it?</p>
+            </div>
+
+      }]
+
     }
   };
   const threadData = threadsData[threadId || ""] || {

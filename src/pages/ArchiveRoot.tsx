@@ -29,6 +29,20 @@ export function ArchiveRoot() {
     author: 'UNKNOWN',
     replies: 1,
     date: '??/??/????'
+  },
+  {
+    id: 'thread-005',
+    title: 'STANFORD COMPUTER LAB - DEMO DATE',
+    author: 'arman_ragnar',
+    replies: 1,
+    date: '??/??/????'
+  },
+  {
+    id: 'thread-006',
+    title: 'OLD HOUSE ON 9TH',
+    author: 'ridge_runner',
+    replies: 9,
+    date: '08/14/1998'
   }];
 
   return (
