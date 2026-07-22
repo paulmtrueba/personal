@@ -20,7 +20,7 @@ const stories = [
   {
     "id": "the-introduction",
     "title": "The Introduction",
-    "wordCount": null,
+    "wordCount": 2600,
     "status": "pending"
   },
   {

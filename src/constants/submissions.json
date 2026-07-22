@@ -83,8 +83,8 @@
     "publication": "Fun in the Dark #3",
     "storyId": "the-introduction",
     "dateSubmitted": "2026-06-09",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-07-21",
+    "result": "rejected",
     "simultaneousSubmission": false
   },
   {
@@ -157,5 +157,13 @@
     "dateSubmitted": "2026-07-16",
     "dateResponded": null,
     "simultaneousSubmission": true
+  },
+  {
+    "publication": "Flame Tree Cosmic Horror",
+    "storyId": "the-introduction",
+    "dateSubmitted": "2026-07-21",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true,
   }
 ]
