@@ -52,5 +52,11 @@ const stories = [
     "title": "The Wretched Chrysalis",
     "wordCount": 98200,
     "status": "pending"
+  },
+  {
+    "id": "the-contract",
+    "title": "The Contract",
+    "wordCount": 723,
+    "status": "accepted"
   }
 ];

@@ -165,5 +165,13 @@
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true,
+  },
+  {
+    "publication": "Alien Buddha Press - In The Alien Buddha's Dreams",
+    "storyId": "the -contract",
+    "dateSubmitted": "2026-07-24",
+    "dateResponded": "2026-07-26",
+    "result": "accepted",
+    "simultaneousSubmission": true,
   }
 ]
