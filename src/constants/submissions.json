@@ -156,6 +156,7 @@
     "storyId": "the-box",
     "dateSubmitted": "2026-07-16",
     "dateResponded": null,
+    "result": "pending",
     "simultaneousSubmission": true
   },
   {
@@ -173,5 +174,13 @@
     "dateResponded": "2026-07-26",
     "result": "accepted",
     "simultaneousSubmission": true,
+  },
+  {
+    "publication": "Unsolicited Press",
+    "storyId": "roger-and-the-baby",
+    "dateSubmitted": "2026-08-01",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
   }
 ]
