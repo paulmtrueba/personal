@@ -148,7 +148,7 @@
     "storyId": "the-wretched-chrysalis",
     "dateSubmitted": "2026-06-11",
     "dateResponded": null,
-    "result": "pending",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
@@ -182,5 +182,21 @@
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": false
-  }
+  },
+  {
+    "publication": "Alien Buddha Press",
+    "storyId": "the-wretched-chrysalis",
+    "dateSubmitted": "2026-08-05",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Cloaked Press",
+    "storyId": "the-wretched-chrysalis",
+    "dateSubmitted": "2026-08-05",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
 ]
