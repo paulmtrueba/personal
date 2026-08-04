@@ -14,7 +14,7 @@ const stories = [
   {
     "id": "the-cave",
     "title": "The Cave",
-    "wordCount": null,
+    "wordCount": 3900,
     "status": "pending"
   },
   {
