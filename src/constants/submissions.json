@@ -187,8 +187,8 @@
     "publication": "Remains",
     "storyId": "the-capitulation",
     "dateSubmitted": "2026-08-02",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-08-03",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
@@ -203,6 +203,14 @@
     "publication": "Cloaked Press",
     "storyId": "the-wretched-chrysalis",
     "dateSubmitted": "2026-08-03",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Sans Press - Again Anthology #12",
+    "storyId": "the-capitulation",
+    "dateSubmitted": "2026-08-04",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
