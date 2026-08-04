@@ -49,4 +49,9 @@ export const catalog = [
 		publication: "Alien Buddha Press - In The Alien Buddha's Dreams",
 		year: 2026,
 	},
+	{
+		title: "The Capitulation",
+		publication: "Submitted Short Fiction",
+		year: 2026,
+	},
 ];
