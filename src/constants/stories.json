@@ -58,5 +58,11 @@ const stories = [
     "title": "The Contract",
     "wordCount": 723,
     "status": "accepted"
+  },
+  {
+    "id": "the-capitulation",
+    "title": "The Capitulation",
+    "wordCount": 980,
+    "status": "pending"
   }
 ];

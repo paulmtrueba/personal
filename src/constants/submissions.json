@@ -184,9 +184,17 @@
     "simultaneousSubmission": false
   },
   {
+    "publication": "Remains",
+    "storyId": "the-capitulation",
+    "dateSubmitted": "2026-08-02",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
+  {
     "publication": "Alien Buddha Press",
     "storyId": "the-wretched-chrysalis",
-    "dateSubmitted": "2026-08-05",
+    "dateSubmitted": "2026-08-03",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
@@ -194,7 +202,7 @@
   {
     "publication": "Cloaked Press",
     "storyId": "the-wretched-chrysalis",
-    "dateSubmitted": "2026-08-05",
+    "dateSubmitted": "2026-08-03",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
