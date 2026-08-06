@@ -195,8 +195,8 @@
     "publication": "Alien Buddha Press",
     "storyId": "the-wretched-chrysalis",
     "dateSubmitted": "2026-08-03",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-08-05",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
@@ -211,6 +211,22 @@
     "publication": "Sans Press - Again Anthology #12",
     "storyId": "the-capitulation",
     "dateSubmitted": "2026-08-04",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Splice",
+    "storyId": "roger-and-the-baby",
+    "dateSubmitted": "2026-08-04",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
+  },
+  {
+    "publication": "Timber Ghost Press",
+    "storyId": "the-wretched-chrysalis",
+    "dateSubmitted": "2026-08-05",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
