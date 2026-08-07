@@ -50,7 +50,7 @@
   {
     "publication": "Cthulhu Awakens",
     "storyId": "the-witness",
-    "dateSubmitted": null,
+    "dateSubmitted": "2026-06-29",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": false
@@ -147,7 +147,7 @@
     "publication": "Grave Empire",
     "storyId": "the-wretched-chrysalis",
     "dateSubmitted": "2026-06-11",
-    "dateResponded": null,
+    "dateResponded": "2026-08-03",
     "result": "rejected",
     "simultaneousSubmission": true
   },
@@ -169,7 +169,7 @@
   },
   {
     "publication": "Alien Buddha Press - In The Alien Buddha's Dreams",
-    "storyId": "the -contract",
+    "storyId": "the-contract",
     "dateSubmitted": "2026-07-24",
     "dateResponded": "2026-07-26",
     "result": "accepted",
@@ -181,7 +181,7 @@
     "dateSubmitted": "2026-08-01",
     "dateResponded": null,
     "result": "pending",
-    "simultaneousSubmission": false
+    "simultaneousSubmission": true
   },
   {
     "publication": "Remains",
@@ -221,7 +221,7 @@
     "dateSubmitted": "2026-08-04",
     "dateResponded": null,
     "result": "pending",
-    "simultaneousSubmission": false
+    "simultaneousSubmission": true
   },
   {
     "publication": "Timber Ghost Press",
