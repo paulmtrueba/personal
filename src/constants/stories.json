@@ -68,7 +68,7 @@ const stories = [
   {
     "id": "the-sticks",
     "title": "The Sticks",
-    "wordCount": 884,
+    "wordCount": 822,
     "status": "unsent"
   }
 ];
