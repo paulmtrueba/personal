@@ -27,7 +27,7 @@ const stories = [
     "id": "the-intermission",
     "title": "The Intermission",
     "wordCount": 2900,
-    "status": "pending"
+    "status": "unsent"
   },
   {
     "id": "the-box",
@@ -64,5 +64,11 @@ const stories = [
     "title": "The Capitulation",
     "wordCount": 980,
     "status": "pending"
+  },
+  {
+    "id": "the-sticks",
+    "title": "The Sticks",
+    "wordCount": 884,
+    "status": "unsent"
   }
 ];
