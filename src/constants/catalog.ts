@@ -54,4 +54,9 @@ export const catalog = [
 		publication: "Submitted Short Fiction",
 		year: 2026,
 	},
+	{
+		title: "The Sticks",
+		publication: "Submitted Short Fiction",
+		year: 2026,
+	},
 ];
