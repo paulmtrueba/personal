@@ -74,9 +74,9 @@
   {
     "publication": "Easton Tales",
     "storyId": "the-cave",
-    "dateSubmitted": "2026-06-12",
+    "dateSubmitted": "2026-08-17",
     "dateResponded": null,
-    "result": "pending",
+    "result": "rejected",
     "simultaneousSubmission": false
   },
   {
@@ -238,5 +238,13 @@
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
+  },
+  {
+    "publication": "No Sleep Podcast",
+    "storyId": "the-cave",
+    "dateSubmitted": "2026-08-17",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
   },
 ]
