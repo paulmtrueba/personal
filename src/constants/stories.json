@@ -69,6 +69,12 @@ const stories = [
     "id": "the-sticks",
     "title": "The Sticks",
     "wordCount": 822,
-    "status": "unsent"
+    "status": "pending"
+  },
+  {
+    "id": "the-world-was-on-fire",
+    "title": "The World Was On Fire",
+    "wordCount": 4984,
+    "status": "pending"
   }
 ];

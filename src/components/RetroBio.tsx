@@ -32,7 +32,7 @@ export function RetroBio() {
               <div className="flex justify-between items-center">
                 <span>Welcome to My Homepage</span>
                 <span className="text-xs font-normal">
-                  [ Last Updated: 08/16/2026 ]
+                  [ Last Updated: 08/18/2026 ]
                 </span>
               </div>
             </td>
