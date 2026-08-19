@@ -251,14 +251,30 @@
     "publication": "Alien Buddha Press - Alien Buddha's House of Horrors 9",
     "storyId": "the-world-was-on-fire",
     "dateSubmitted": "2026-08-18",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-08-19",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
     "publication": "Alien Buddha Press - Alien Buddha's Horror Showdown 2026",
     "storyId": "the-world-was-on-fire",
     "dateSubmitted": "2026-08-18",
+    "dateResponded": "2026-08-19",
+    "result": "rejected",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Owl Hollow Press - The Unopened Door",
+    "storyId": "the-cave",
+    "dateSubmitted": "2026-08-19",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
+  },
+  {
+    "publication": "Macabre Magazine",
+    "storyId": "the-world-was-on-fire",
+    "dateSubmitted": "2026-08-19",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
