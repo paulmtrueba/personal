@@ -51,8 +51,8 @@
     "publication": "Cthulhu Awakens",
     "storyId": "the-witness",
     "dateSubmitted": "2026-06-29",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-08-20",
+    "result": "rejected",
     "simultaneousSubmission": false
   },
   {
@@ -275,6 +275,30 @@
     "publication": "Macabre Magazine",
     "storyId": "the-world-was-on-fire",
     "dateSubmitted": "2026-08-19",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Alien Buddha Press - Alien Buddha's House of Horrors 9",
+    "storyId": "the-witness",
+    "dateSubmitted": "2026-08-20",
+    "dateResponded": "2026-08-20",
+    "result": "rejected",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Alien Buddha Press - Alien Buddha's Horror Showdown 2026",
+    "storyId": "the-witness",
+    "dateSubmitted": "2026-08-20",
+    "dateResponded": "2026-08-20",
+    "result": "rejected",
+    "simultaneousSubmission": true
+  },
+  {
+    "publication": "Vigilante Crime & Pulp - Psycho Pulp",
+    "storyId": "the-world-was-on-fire",
+    "dateSubmitted": "2026-08-21",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": true
