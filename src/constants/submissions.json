@@ -108,8 +108,8 @@
     "storyId": "the-box",
     "dateSubmitted": "2026-07-08",
     "dateResponded": null,
-    "result": "pending",
-    "simultaneousSubmission": false
+    "result": "held",
+    "simultaneousSubmission": true
   },
   {
     "publication": "Samovar",
