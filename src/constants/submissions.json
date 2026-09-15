@@ -180,7 +180,7 @@
     "storyId": "roger-and-the-baby",
     "dateSubmitted": "2026-08-01",
     "dateResponded": null,
-    "result": "pending",
+    "result": "rejcted",
     "simultaneousSubmission": true
   },
   {
@@ -268,7 +268,7 @@
     "storyId": "the-cave",
     "dateSubmitted": "2026-08-19",
     "dateResponded": null,
-    "result": "pending",
+    "result": "rejected",
     "simultaneousSubmission": false
   },
   {
