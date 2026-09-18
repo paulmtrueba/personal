@@ -36,7 +36,7 @@ export const catalog = [
 	},
 	{
 		title: "The Cave",
-		publication: "Submitted Short Fiction",
+		publication: "Alien Buddha Press - The Alien Buddha Wasn't Here",
 		year: 2026,
 	},
 	{
