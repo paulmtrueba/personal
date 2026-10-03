@@ -319,4 +319,12 @@
     "result": "accepted",
     "simultaneousSubmission": true
   },
+  {
+    "publication": "Deep Cut",
+    "storyId": "the-world-was-on-fire",
+    "dateSubmitted": "2026-10-02",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": true
+  },
 ]
