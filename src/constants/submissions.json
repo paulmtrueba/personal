@@ -327,4 +327,12 @@
     "result": "pending",
     "simultaneousSubmission": true
   },
+  {
+    "publication": "Bourbon Penn",
+    "storyId": "the-intermission",
+    "dateSubmitted": "2026-10-15",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
+  },
 ]
