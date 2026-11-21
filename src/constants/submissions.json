@@ -114,7 +114,7 @@
   {
     "publication": "Samovar",
     "storyId": "the-broken-hour",
-    "dateSubmitted": null,
+    "dateSubmitted": "2026-06-29",
     "dateResponded": null,
     "result": "pending",
     "simultaneousSubmission": false
@@ -180,7 +180,7 @@
     "storyId": "roger-and-the-baby",
     "dateSubmitted": "2026-08-01",
     "dateResponded": null,
-    "result": "rejcted",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
@@ -219,8 +219,8 @@
     "publication": "Splice",
     "storyId": "roger-and-the-baby",
     "dateSubmitted": "2026-08-04",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-10-19",
+    "result": "rejected",
     "simultaneousSubmission": true
   },
   {
@@ -323,16 +323,25 @@
     "publication": "Deep Cut",
     "storyId": "the-world-was-on-fire",
     "dateSubmitted": "2026-10-02",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-11-17",
+    "result": "rejected",
+    "responseType": "encouraging",
     "simultaneousSubmission": true
   },
   {
     "publication": "Bourbon Penn",
     "storyId": "the-intermission",
     "dateSubmitted": "2026-10-15",
-    "dateResponded": null,
-    "result": "pending",
+    "dateResponded": "2026-10-28",
+    "result": "rejected",
+    "simultaneousSubmission": false
+  },
+  {
+    "publication": "Tinted Glas Press Fall 2026 Window",
+    "storyId": "the-intermission",
+    "dateSubmitted": "2026-10-28",
+    "dateResponded": "2026-11-18",
+    "result": "rejected",
     "simultaneousSubmission": false
   },
 ]
