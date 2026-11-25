@@ -337,11 +337,27 @@
     "simultaneousSubmission": false
   },
   {
-    "publication": "Tinted Glas Press Fall 2026 Window",
+    "publication": "Tainted Glas Press Fall 2026 Window",
     "storyId": "the-intermission",
     "dateSubmitted": "2026-10-28",
     "dateResponded": "2026-11-18",
     "result": "rejected",
+    "simultaneousSubmission": false
+  },
+  {
+    "publication": "Apex Magazine",
+    "storyId": "the-witness",
+    "dateSubmitted": "2026-11-06",
+    "dateResponded": null,
+    "result": "pending",
+    "simultaneousSubmission": false
+  },
+  {
+    "publication": "Electric Spec",
+    "storyId": "the-intermission",
+    "dateSubmitted": "2026-11-24",
+    "dateResponded": null,
+    "result": "pending",
     "simultaneousSubmission": false
   },
 ]
